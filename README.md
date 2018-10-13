@@ -1,4 +1,4 @@
-# keras_mnist_tpu
+# keras tpu
 A demo to show how to use the TPU in google colab.
 
 It is almost the same as training a normal keras model, except that
